@@ -24,7 +24,7 @@ Codename:       focal
 - [NeoVim](https://neovim.io/)
 - [LunarVim](lunarvim.org) `stable` version
 - ... _work in progress_
-- [yadm](https://yadm.io/) - dotfiles management like `git` way
+- [yadm](https://yadm.io/) - dotfiles management in a `git` way
 
 ## Useful Plugins
 **zsh**
