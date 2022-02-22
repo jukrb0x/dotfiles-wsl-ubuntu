@@ -19,6 +19,7 @@ Codename:       focal
 - [`oh-my-zsh`](https://github.com/ohmyzsh/ohmyzsh/)
 - [power10k](https://github.com/romkatv/powerlevel10k) for omz
 - `build-essentials` may be missing, install it with
+
    ```bash
    sudo apt-get install build-essentials -y
    ```
