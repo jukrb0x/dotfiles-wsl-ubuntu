@@ -38,5 +38,5 @@ Codename:       focal
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
 ## Work in Progress
-
+- [ ] windows 10 setups for game dev / fontend deev
 > to be continued
