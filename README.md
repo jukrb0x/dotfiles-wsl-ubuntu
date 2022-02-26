@@ -2,6 +2,9 @@
 
 > :warning: WARNING: Keep sensitive files outside this repository!
 
+> Sister repository for *macOS*: [dotfiles](https://github.com/jukrb0x/dotfiles)
+
+
 Managed with `yadm`, working in progress.
 
 ```bash
