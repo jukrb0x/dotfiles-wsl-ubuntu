@@ -29,7 +29,7 @@ Codename:       focal
 - [Linuxbrew](brew.sh) _for the following installations_
 - [n](https://github.com/tj/n) - node version management
 - [NeoVim](https://neovim.io/)
-- [LunarVim](lunarvim.org) `stable` version
+    - Distribution [LunarVim](lunarvim.org) `stable` version
 - ... _work in progress_
 - [yadm](https://yadm.io/) - dotfiles management in a `git` way
 
