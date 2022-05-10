@@ -35,7 +35,7 @@ Codename:       focal
 
 ## Useful Plugins
 **zsh**
-- [zsh-z](url)
+- [zsh-z](https://github.com/agkozak/zsh-z)
 - [colorls](https://github.com/athityakumar/colorls)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
