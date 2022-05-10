@@ -26,7 +26,7 @@ Codename:       focal
    ```bash
    sudo apt-get install build-essentials -y
    ```
-- [Linuxbrew](brew.sh) _for the following installations_
+- [Linuxbrew](https://brew.sh) _for the following installations_
 - [n](https://github.com/tj/n) - node version management
 - [NeoVim](https://neovim.io/)
     - Distribution [LunarVim](lunarvim.org) `stable` version
