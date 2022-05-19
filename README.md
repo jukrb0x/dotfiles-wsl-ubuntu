@@ -21,10 +21,10 @@ Codename:       focal
 - [`oh-my-tmux`](https://github.com/gpakosz/.tmux)
 - [`oh-my-zsh`](https://github.com/ohmyzsh/ohmyzsh/)
 - [power10k](https://github.com/romkatv/powerlevel10k) for omz
-- `build-essentials` may be missing, install it with
+- `build-essential` may be missing, install it with
 
    ```bash
-   sudo apt-get install build-essentials -y
+   sudo apt-get install build-essential -y
    ```
 - [Linuxbrew](brew.sh) _for the following installations_
    - [yadm](https://yadm.io/) - dotfiles management in a `git` way
